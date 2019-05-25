@@ -1,0 +1,13 @@
+Transaction OTP - Do not share the OTP
+
+Hi,
+
+A request has come for your transaction.
+
+The otp for your transaction is 132546. Please use the otp for your transaction.
+
+If you don't use the otp with in 2 mins. the otp will be expired.
+
+You can request a new otp after that.
+
+Thank you.
